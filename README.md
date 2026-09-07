@@ -8,6 +8,8 @@ Each operation runs in a separate worker thread, with synchronization handled th
 ## Setup
 REQUIREMENT:
 sudo apt install libreadline-dev
+sudo apt install gcc
+sudo apt install make
 
 How to compile:
 make
